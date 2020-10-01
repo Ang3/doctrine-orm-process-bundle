@@ -60,7 +60,7 @@ class MyService
 ```
 
 If the manager name is ```default```, then the autowired argument is 
-```Ang3\Component\Doctrine\ORM\BatchProcessor $defaultProcessor```. By default, the batch processor 
+```Ang3\Component\Doctrine\ORM\BatchProcessor $defaultBatchProcessor```. By default, the batch processor 
 of the ```default``` manager is passed by type-hinting.
 
 - Run the command ```php bin/console debug:autowiring BatchProcessor``` to get the list of autowired processors.
