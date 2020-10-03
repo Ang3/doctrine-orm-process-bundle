@@ -17,7 +17,6 @@ Summary
 - [Installation](#installation)
 - [Usage](#usage)
     - [Batch processor](#batch-processor)
-    - [Entity locker](#entity-locker)
 
 Installation
 ============
@@ -79,10 +78,5 @@ MyClass:
 Please see the documentation of 
 [ang3/php-doctrine-orm-batch-processor](https://github.com/Ang3/php-doctrine-orm-batch-processor) 
 for informations about usage of a processor.
-
-Entity locker
--------------
-
-...
 
 That's it!
