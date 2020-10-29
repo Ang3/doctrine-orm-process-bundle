@@ -18,7 +18,7 @@
   },
   "require": {
     "php": ">=7.2.5",
-    "ang3/php-doctrine-orm-batch-processor": "^1.0",
+    "ang3/php-doctrine-orm-batch-processor": "^2.0",
     "doctrine/doctrine-bundle": "^2.1",
     "doctrine/orm": "^2.7",
     "symfony/dependency-injection": "^5.1",
